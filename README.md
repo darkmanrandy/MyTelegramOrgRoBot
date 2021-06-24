@@ -64,4 +64,4 @@ python3 bot.py
 ## credits
 
 - Thanks to:
-  - [∪∩∩᭄_1997](https://t.me/v_e_n_t_h_a_n)
+  - [TamilVenthan Mec](https://t.me/v_e_n_t_h_a_n)
