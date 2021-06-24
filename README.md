@@ -9,7 +9,7 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 - can be found on [Telegram.Org](https://telegram.dog/Get_app_id_bot)
 
-🙄 [![Get APP ID](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/Get_app_id_bot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+🙄 [Get APP ID](https://telegram.dog/Get_app_id_bot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## Frequently Asked Questions
@@ -63,13 +63,9 @@ python3 bot.py
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
+- Join this channel to download movies and web series: [@TENDKOTTA](https://t.me/tendkotta)
 
 ## credits
 
-- Libraries Used:
-  - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
-  - [requests](https://github.com/psf/requests)
-  - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
   - [me](https://t.me/v_e_n_t_h_a_n)
