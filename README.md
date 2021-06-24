@@ -1,7 +1,3 @@
-# Telegram.Org
-
-~~(yet)~~ another my.telegram.org scrapper inside Telegram.
-
 ### ⚠ legal Disclaimer 🚸
 please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
 
@@ -68,4 +64,4 @@ python3 bot.py
 ## credits
 
 - Thanks to:
-  - [me](https://t.me/v_e_n_t_h_a_n)
+  - [∪∩∩᭄_1997](https://t.me/v_e_n_t_h_a_n)
