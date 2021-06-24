@@ -3,10 +3,7 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram.Org](https://telegram.dog/Get_app_id_bot)
-
-🙄 [Get APP ID](https://telegram.dog/Get_app_id_bot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
-__For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
+[![Get APP ID](https://telegra.ph/file/abdb5a244fedea3e59409.jpg)](https://telegram.dog/Get_app_id_bot)
 
 ## Frequently Asked Questions
 
