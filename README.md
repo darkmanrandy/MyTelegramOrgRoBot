@@ -2,7 +2,7 @@
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
-### ⚠ legal DISclaimER 🚸
+### ⚠ legal Disclaimer 🚸
 please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
@@ -59,19 +59,11 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [@v_e_n_t_h_a_n](https://telegram.dog/ThankTelegram)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
 - Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
-
-
-## learning
-
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
-
-## LICENSE
-[AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)
 
 ## credits
 
@@ -80,4 +72,4 @@ check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/SpEcHlDe)
+  - [me](https://t.me/v_e_n_t_h_a_n)
